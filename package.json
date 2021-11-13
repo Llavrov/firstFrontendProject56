@@ -4,7 +4,7 @@
   "description": "Project to learn frontend base",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node server/main.js"
   },
   "repository": {
     "type": "git",
