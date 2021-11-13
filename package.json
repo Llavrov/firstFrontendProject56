@@ -1,0 +1,19 @@
+{
+  "name": "frontendlessons",
+  "version": "1.0.0",
+  "description": "Project to learn frontend base",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Llavrov/firstFrontendProject56.git"
+  },
+  "author": "Lev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Llavrov/firstFrontendProject56/issues"
+  },
+  "homepage": "https://github.com/Llavrov/firstFrontendProject56#readme"
+}
