@@ -31,7 +31,7 @@ app.post('/auth', function (req, res) {
     //const user = {username, email, score: 0};
     ids[id] = email;
 
-    res.cookie('podvorot', id, {domain: 'https://autorisation.herokuapp.com/', expires: new Date(Date.now() + 1000 * 60 * 10)});
+    res.cookie('podvorot', id, {domain: 'autorisation.herokuapp.com', expires: new Date(Date.now() + 1000 * 60 * 10)});
     res.json({id});
 });
 
